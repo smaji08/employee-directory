@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1>My first React App!</h1>
+      <h1>My first React App - Emoloyee Directory!</h1>
     </div>
     // {/* <div className="App">
     //   <header className="App-header">
