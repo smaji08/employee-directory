@@ -1,2 +1,0 @@
-(this["webpackJsonpemployee-directory"]=this["webpackJsonpemployee-directory"]||[]).push([[0],[,,,function(e,t,n){e.exports=n(10)},,,,,function(e,t,n){},function(e,t,n){},function(e,t,n){"use strict";n.r(t);var r=n(0),c=n.n(r),o=n(2),a=n.n(o);n(8),n(9);var l=function(){return c.a.createElement("div",null,c.a.createElement("h1",null,"My first React App!"))};a.a.render(c.a.createElement(c.a.StrictMode,null,c.a.createElement(l,null)),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.ba4b01e2.chunk.js.map
