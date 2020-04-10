@@ -10,7 +10,7 @@ function App() {
       <div>
         <Navbar />
         <Wrapper>
-          <Route exact path='/employee-directory' component={Directory} />
+          <Route exact path='/' component={Directory} />
         </Wrapper>
       </div>
     </Router>  
