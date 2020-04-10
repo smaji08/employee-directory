@@ -2,7 +2,7 @@
   "name": "employee-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://smaji08.github.io/employee-directory",
+  
   "engines": {
     "npm": "6.12.0",
     "node": "12.13.0"
