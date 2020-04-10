@@ -1,12 +1,12 @@
 import React, { Component } from "react";
-import API from "../../utils/API";
-import Container from "../Container";
-import Row from "../Row";
-import Col from "../Col";
-import SearchForm from "../SearchForm";
-import EmpTable from "../EmpTable";
+import API from "../utils/API";
+import Container from "../components/Container";
+import Row from "../components/Row";
+import Col from "../components/Col";
+import SearchForm from "../components/SearchForm";
+import EmpTable from "../components/EmpTable";
 
-class EmployeeContainer extends Component {
+class Directory extends Component {
     state = {
         search: "",
         result: []
@@ -69,4 +69,4 @@ class EmployeeContainer extends Component {
     }
 }
 
-export default EmployeeContainer;
+export default Directory;

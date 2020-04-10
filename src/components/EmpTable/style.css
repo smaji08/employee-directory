@@ -4,12 +4,12 @@
     width: 100%;
   }
   
-  .empDetail td, #customers th {
+  .empDetail td, .empDetail th {
     border: 1px solid #ddd;
     padding: 8px;
   }
   
-  .empDetail tr:nth-child(even){background-color: #f2f2f2;}
+  .empDetail tr:nth-child(even){background-color: #f0eaeade;}
   
   .empDetail tr:hover {background-color: #ddd;}
   
