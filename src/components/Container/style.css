@@ -1,0 +1,20 @@
+.container-fluid{
+    height: 120px;
+    background-color: rgb(18, 18, 58);
+    border-bottom:5px solid red;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    margin-bottom: 0;
+  }
+
+.container-search{
+    height: 50px;
+    background-color: rgb(239, 239, 240);
+    margin-top:5px;
+    color: black;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    /* margin-bottom: 0; */
+  } 

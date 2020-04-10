@@ -1,0 +1,32 @@
+.container-search{
+  height: 50px;
+  background-color: rgb(239, 239, 240);
+  margin-top:5px;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 0;
+}
+
+.empDetail {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.empDetail td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.empDetail tr:nth-child(even){background-color: #f2f2f2;}
+
+.empDetail tr:hover {background-color: #ddd;}
+
+.empDetail th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: rgb(48, 38, 187);
+  color: white;
+}
