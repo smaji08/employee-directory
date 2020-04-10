@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Directory from "./pages/Directory";
 import Navbar from "./components/Navbar";
-// import EmployeeContainer from "./components/EmployeeContainer";
 import Wrapper from "./components/Wrapper";
 
 function App() {
@@ -11,8 +10,7 @@ function App() {
       <div>
         <Navbar />
         <Wrapper>
-        <Route exact path='/' component={Directory} />
-          {/* <EmployeeContainer /> */}
+          <Route exact path='/employee-directory' component={Directory} />
         </Wrapper>
       </div>
     </Router>  
