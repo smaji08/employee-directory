@@ -12,6 +12,7 @@ function EmpTable(props){
                         <th>Phone</th>
                         <th>Email</th>
                         <th>DOB</th>
+                        <th>Location</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -21,7 +22,8 @@ function EmpTable(props){
                             <td>{emp.name.first} {emp.name.last}</td>
                             <td>{emp.phone}</td>
                             <td><a href={emp.email}>{emp.email}</a></td>
-                            <td>{emp.dob.date}</td>
+                            <td>{new Date(emp.dob.date).toLocaleDateString()}</td>
+                            <td>{emp.location.city}, {emp.location.state}, {emp.nat}</td>
                         </tr>
                         ))}   
                 </tbody>

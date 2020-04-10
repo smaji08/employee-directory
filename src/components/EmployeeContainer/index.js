@@ -43,7 +43,7 @@ class EmployeeContainer extends Component {
         else{
             const lowercasedFilter = this.state.search.toLowerCase();
             filteredData = this.state.result.filter(emp => { 
-            let fullName = emp.name.first + " " + emp.name.last 
+            let fullName = emp.name.first + " " + emp.name.last;
             return (fullName).toLowerCase().indexOf(lowercasedFilter) >= 0 });
         }
     
