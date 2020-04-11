@@ -10,7 +10,7 @@ function SearchForm(props) {
           name="search"
           type="text"
           className="form-control"
-          placeholder="Search"
+          placeholder="Filter by Name.."
           id="search"
         />
         <br />
