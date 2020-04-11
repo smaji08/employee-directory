@@ -2,7 +2,7 @@
 
 A ReactJS app which displays the employee details and allows to filter and sort by Name and sort by number of years in the service
 
-Deployed Heroku URL: https://serene-savannah-11847.herokuapp.com/
+Deployed Heroku URL: https://serene-savannah-11847.herokuapp.com/  
 Deployed Git URL: https://smaji08.github.io/employee-directory/
 
 ### User Story
