@@ -5,11 +5,17 @@ A ReactJS app which displays the employee details and allows to filter and sort 
 Deployed Heroku URL: https://serene-savannah-11847.herokuapp.com/  
 Deployed Git URL: https://smaji08.github.io/employee-directory/
 
+### Screenshots
+
+![empD_Desc](https://user-images.githubusercontent.com/54964461/84304519-a1360380-ab26-11ea-93d1-ed09cbc4cec1.png)
+
+![empD_Filter](https://user-images.githubusercontent.com/54964461/84304535-a6934e00-ab26-11ea-8d4d-b0e772a19085.png)
+
 ### User Story
 
 AS A User  
-I WANT to be able to view my entire employee directory at once    
-SO THAT I have quick access to their information  
+I WANT to be able to view my entire employee directory at once  
+SO THAT I have quick access to their information
 
 ### Business Context
 
@@ -33,4 +39,3 @@ It was a challenge to figure out how the function components and class component
 3. https://www.florin-pop.com/blog/2019/07/sort-table-data-with-react/
 4. https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f
 5. https://dev.to/lawrence_eagles/causes-of-heroku-h10-app-crashed-error-and-how-to-solve-them-3jnl
-
